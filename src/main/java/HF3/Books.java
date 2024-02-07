@@ -19,6 +19,8 @@ public class Books {
             myBooks[1].author="sue";
             myBooks[2].author="ian";
 
+            //loop starts //
+
             while(x<3){
                 System.out.println(myBooks[x].title);
                 System.out.println("by");

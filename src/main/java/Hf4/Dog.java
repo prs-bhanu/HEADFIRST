@@ -1,5 +1,5 @@
 
-package com.prs.headfirst.fourthchapter;
+package Hf4;
 
 // class is decleared//
 

@@ -1,4 +1,4 @@
-package com.prs.headfirst.fourthchapter;
+package Hf4;
 public class Clock {
     String time;
     void setTime(String t) {

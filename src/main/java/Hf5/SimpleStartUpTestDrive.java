@@ -1,4 +1,4 @@
-package com.prs.headfirst.fifthchapter;
+package Hf5;
 public class SimpleStartUpTestDrive {
         public static void main(String[] args) {
             SimpleStartup dot = new SimpleStartup();

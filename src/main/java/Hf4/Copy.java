@@ -1,4 +1,4 @@
-package com.prs.headfirst.fourthchapter;
+package Hf4;
 
 public class Copy {
     public static void main (String[]args){

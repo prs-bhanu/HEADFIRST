@@ -1,4 +1,4 @@
-package com.prs.headfirst.sixthchapter;
+package Hf6;
 
 public class A{
         int ivar = 7;

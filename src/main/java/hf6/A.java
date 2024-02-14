@@ -1,4 +1,4 @@
-package Hf6;
+package hf6;
 
 public class A{
         int ivar = 7;

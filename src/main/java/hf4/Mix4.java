@@ -1,4 +1,4 @@
-package Hf4;
+package hf4;
 
 public class Mix4 {
     int counter =0;

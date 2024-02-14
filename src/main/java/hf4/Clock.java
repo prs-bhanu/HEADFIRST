@@ -1,4 +1,4 @@
-package Hf4;
+package hf4;
 public class Clock {
     String time;
     void setTime(String t) {

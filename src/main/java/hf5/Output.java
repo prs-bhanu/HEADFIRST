@@ -1,4 +1,4 @@
-package Hf5;
+package hf5;
 
 public class Output {
         public static void main(String[] args) {

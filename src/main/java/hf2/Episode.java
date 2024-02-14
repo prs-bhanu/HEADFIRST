@@ -1,4 +1,4 @@
-package HF2;
+package hf2;
 public class Episode {
     // declaring parameters //
         int seriesNumber;

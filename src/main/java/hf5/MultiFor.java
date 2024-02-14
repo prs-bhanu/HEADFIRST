@@ -1,4 +1,4 @@
-package Hf5;
+package hf5;
 public class MultiFor {
     public static void main(String[] args) {
         for (int i = 0; i < 4; i++) {

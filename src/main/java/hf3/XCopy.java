@@ -1,4 +1,4 @@
-package HF3;
+package hf3;
 
 public class XCopy {
 

@@ -1,4 +1,4 @@
-package HF1;
+package hf1;
 public class PoolPuzzule {
     //main method declearation //
         public static void main(String [] args) {

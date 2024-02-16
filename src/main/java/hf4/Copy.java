@@ -1,4 +1,4 @@
-package Hf4;
+package hf4;
 
 public class Copy {
     public static void main (String[]args){

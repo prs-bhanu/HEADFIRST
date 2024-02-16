@@ -1,4 +1,4 @@
-package HF2;
+package hf2;
 public class StreamingSong {
         String title;
         String artist;

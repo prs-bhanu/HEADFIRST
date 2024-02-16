@@ -1,4 +1,4 @@
-package Hf5;
+package hf5;
 public class SimpleStartUpTestDrive {
         public static void main(String[] args) {
             SimpleStartup dot = new SimpleStartup();

@@ -1,5 +1,5 @@
 
-package Hf4;
+package hf4;
 
 // class is decleared//
 

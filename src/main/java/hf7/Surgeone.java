@@ -1,6 +1,5 @@
 package hf7;
-
-public class FamilyDoctor extends Doctor{
+class FamilyDoctor extends Doctor{
     boolean makeHouseCalls;
     void giveAdvice(){
 
@@ -8,7 +7,9 @@ public class FamilyDoctor extends Doctor{
 }
 public class Surgeone extends Doctor {
     void treatpatient() {
+    }
         void makeIncision() {
         }
     }
-}
+
+

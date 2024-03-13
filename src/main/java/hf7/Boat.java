@@ -1,7 +1,7 @@
 package hf7;
 
 public class Rowboat extends Boat {
-    public void rowTheBoat{
+    public void rowTheBoat(){
         System.out.println("stroke natasha");
     }
 }
@@ -19,7 +19,7 @@ public class Boat{
     }
 }
 public class TestBoats{
-    public static void main (Srting[] args){
+    public static  void main (Srting[] args){
         Boat b1 =new Boat();
         SailBoat b2=new Boat();
         RowBoat b3 = new Rowboat();
@@ -34,3 +34,4 @@ public class sailboat extends Boat{
         System.out.println(("hoist sail"));
     }
 }
+

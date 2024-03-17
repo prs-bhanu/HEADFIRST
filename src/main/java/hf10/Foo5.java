@@ -34,9 +34,19 @@ public class Foo5 {
 }*/
 
     //this code won't compile//
-   //*final/*
-   int x;
+    //*final/*
+  /* int x;
     public void go() {
         System.out.println(x);
+    }
+}*/
+    //main method
+    public static void main(String[] args) {
+        int a = 4;
+        int b = 1;
+        while (a != b) {
+            System.out.println(b);
+            b = b + 1;
+        }
     }
 }

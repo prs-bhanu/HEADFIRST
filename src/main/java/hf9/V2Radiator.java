@@ -1,5 +1,5 @@
 package hf9;
-//multiple classes are added in same proram
+//multiple classes are added in same program
 
 import java.util.ArrayList;
 

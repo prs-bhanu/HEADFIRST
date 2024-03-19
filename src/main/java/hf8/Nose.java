@@ -1,6 +1,8 @@
 package hf8;
 
-public class Nose {
+class Nose {
+
+
     public static void main(String[] args) {
         abstract class myNose {
             public abstract int iMethod();

@@ -1,12 +1,15 @@
 package hf7;
 
+import java.io.OptionalDataException;
+
 public class MonsterTestDrive {
     public static void main (String[]args){
         Monster[] monsters = new Monster[3];
-        monsters[0] =new Vampire();
+        monsters[0] =new Monster.Vampire();
         monsters[1] =new Dragon();
         monsters[2] =new Monster();
-        for (int i=0; i<Monsters.length; i++){
+        OptionalDataException Monsters = null;
+        for (int i = 0; i<Monsters.length; i++){
             monsters[i].frighten(i);
         }
 
@@ -18,7 +21,7 @@ class Monster {
         return true;
     }
 
-    class Vampire extends Monster {
+    static class Vampire extends Monster {
         boolean frighten(byte b) {
             System.out.println("a bite");
             return true;

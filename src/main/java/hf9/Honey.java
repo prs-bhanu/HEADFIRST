@@ -1,6 +1,5 @@
 package hf9;
 
-
         class Bees {
             Honey[] beeHoney;
         }
@@ -35,12 +34,12 @@ public class Honey {
         }
         Kit kit = new Kit();
         kit.honey = honeyPot;
-        Raccoon raccoon = new Raccoon();
+        Raccoon raccoon;
+        raccoon = new Raccoon();
         raccoon.rh = honeyPot;
         raccoon.rk = kit;
-        kit = null;
 
-    } // end of main
+    }
 }
 
 

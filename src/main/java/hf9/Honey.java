@@ -3,7 +3,6 @@ package hf9;
         class Bees {
             Honey[] beeHoney;
         }
-
         class Raccoon {
             Kit rk;
             Honey rh;
@@ -24,20 +23,16 @@ public class Honey {
         Bees bees = new Bees();
         bees.beeHoney = ha;
         Bear[] bears = new Bear[5];
-
-
         for (int i = 0; i < 5; i++) {
-
             bears[i]= new Bear();
-
             bears[i].hunny = honeyPot;
         }
         Kit kit = new Kit();
         kit.honey = honeyPot;
-        Raccoon raccoon;
-        raccoon = new Raccoon();
+        Raccoon raccoon = new Raccoon();
         raccoon.rh = honeyPot;
         raccoon.rk = kit;
+        kit= null;
 
     }
 }
